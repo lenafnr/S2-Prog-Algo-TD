@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "IMAC",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TD3-exo1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TD3-exo1-Debug-559b8685868dcc261cba.json",
+					"name" : "TD3-exo1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TD3-exo2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TD3-exo2-Debug-068d413357046320dfc4.json",
+					"name" : "TD3-exo2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TD3-exo3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TD3-exo3-Debug-eca6d15e0075d9eb9925.json",
+					"name" : "TD3-exo3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TD3-exo4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TD3-exo4-Debug-2d02951bb9484de410cf.json",
+					"name" : "TD3-exo4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2/TD3/build",
+		"source" : "/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2/TD3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
