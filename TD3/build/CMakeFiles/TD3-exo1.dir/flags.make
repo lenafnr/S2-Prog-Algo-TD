@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/clang++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2/TD3/src
+CXX_INCLUDES = -I/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src
 
 CXX_FLAGSarm64 = -g -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -pedantic-errors
 

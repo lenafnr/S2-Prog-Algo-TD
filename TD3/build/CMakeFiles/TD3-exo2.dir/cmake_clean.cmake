@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2/TD3/bin/Debug/TD3-exo2"
-  "/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2/TD3/bin/Debug/TD3-exo2.pdb"
+  "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/bin/Debug/TD3-exo2"
+  "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/bin/Debug/TD3-exo2.pdb"
   "CMakeFiles/TD3-exo2.dir/src/TD3-exo2.cpp.o"
   "CMakeFiles/TD3-exo2.dir/src/TD3-exo2.cpp.o.d"
 )
