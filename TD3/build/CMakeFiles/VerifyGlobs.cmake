@@ -8,6 +8,7 @@ set(OLD_GLOB
   "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/TD3-exo2.cpp"
   "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/TD3-exo3.cpp"
   "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/TD3-exo4.cpp"
+  "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/sorts.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")

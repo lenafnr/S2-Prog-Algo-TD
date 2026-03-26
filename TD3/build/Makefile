@@ -265,6 +265,39 @@ src/TD3-exo4.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TD3-exo4.dir/build.make CMakeFiles/TD3-exo4.dir/src/TD3-exo4.cpp.s
 .PHONY : src/TD3-exo4.cpp.s
 
+src/sorts.o: src/sorts.cpp.o
+.PHONY : src/sorts.o
+
+# target to build an object file
+src/sorts.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TD3-exo1.dir/build.make CMakeFiles/TD3-exo1.dir/src/sorts.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TD3-exo2.dir/build.make CMakeFiles/TD3-exo2.dir/src/sorts.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TD3-exo3.dir/build.make CMakeFiles/TD3-exo3.dir/src/sorts.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TD3-exo4.dir/build.make CMakeFiles/TD3-exo4.dir/src/sorts.cpp.o
+.PHONY : src/sorts.cpp.o
+
+src/sorts.i: src/sorts.cpp.i
+.PHONY : src/sorts.i
+
+# target to preprocess a source file
+src/sorts.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TD3-exo1.dir/build.make CMakeFiles/TD3-exo1.dir/src/sorts.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TD3-exo2.dir/build.make CMakeFiles/TD3-exo2.dir/src/sorts.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TD3-exo3.dir/build.make CMakeFiles/TD3-exo3.dir/src/sorts.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TD3-exo4.dir/build.make CMakeFiles/TD3-exo4.dir/src/sorts.cpp.i
+.PHONY : src/sorts.cpp.i
+
+src/sorts.s: src/sorts.cpp.s
+.PHONY : src/sorts.s
+
+# target to generate assembly for a file
+src/sorts.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TD3-exo1.dir/build.make CMakeFiles/TD3-exo1.dir/src/sorts.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TD3-exo2.dir/build.make CMakeFiles/TD3-exo2.dir/src/sorts.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TD3-exo3.dir/build.make CMakeFiles/TD3-exo3.dir/src/sorts.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TD3-exo4.dir/build.make CMakeFiles/TD3-exo4.dir/src/sorts.cpp.s
+.PHONY : src/sorts.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -289,6 +322,9 @@ help:
 	@echo "... src/TD3-exo4.o"
 	@echo "... src/TD3-exo4.i"
 	@echo "... src/TD3-exo4.s"
+	@echo "... src/sorts.o"
+	@echo "... src/sorts.i"
+	@echo "... src/sorts.s"
 .PHONY : help
 
 
