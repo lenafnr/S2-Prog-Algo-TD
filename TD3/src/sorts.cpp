@@ -1,4 +1,8 @@
 #include <sorts.hpp>
+#include <vector>
+#include <algorithm>
+
+bool is_sorted(std::vector<int> const& vec) { return std::is_sorted(vec.begin(), vec.end()); }
 
 void bubble_sort(std::vector<int> &vec)
 {
@@ -69,4 +73,23 @@ void merge_sort(std::vector<int> &vec, size_t const left, size_t const right)
 void merge_sort(std::vector<int> &vec)
 {
     merge_sort(vec, 0, vec.size() - 1);
+}
+
+int search (const std::vector<int>& vec, int val) {
+
+    int left = 0;
+    int right = vec.size() - 1;
+
+    while (left <= right) {
+        int middle = (left + right) / 2;
+
+        if (vec[middle] == val) {
+            return middle;
+        } else if (vec[middle] < val) {
+            left = middle + 1;
+        } else {
+            right = middle - 1;
+        }
+    }
+    return -1;
 }

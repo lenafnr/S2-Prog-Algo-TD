@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/build",
+  "command": "/usr/bin/clang++  -I/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src -g -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles/TD3-exo1.dir/src/TD3-exo1.cpp.o -c /Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/TD3-exo1.cpp",
+  "file": "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/TD3-exo1.cpp",
+  "output": "CMakeFiles/TD3-exo1.dir/src/TD3-exo1.cpp.o"
+},
+{
+  "directory": "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/build",
+  "command": "/usr/bin/clang++  -I/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src -g -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles/TD3-exo1.dir/src/sorts.cpp.o -c /Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/sorts.cpp",
+  "file": "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/sorts.cpp",
+  "output": "CMakeFiles/TD3-exo1.dir/src/sorts.cpp.o"
+},
+{
+  "directory": "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/build",
+  "command": "/usr/bin/clang++  -I/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src -g -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles/TD3-exo2.dir/src/TD3-exo2.cpp.o -c /Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/TD3-exo2.cpp",
+  "file": "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/TD3-exo2.cpp",
+  "output": "CMakeFiles/TD3-exo2.dir/src/TD3-exo2.cpp.o"
+},
+{
+  "directory": "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/build",
+  "command": "/usr/bin/clang++  -I/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src -g -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles/TD3-exo2.dir/src/sorts.cpp.o -c /Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/sorts.cpp",
+  "file": "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/sorts.cpp",
+  "output": "CMakeFiles/TD3-exo2.dir/src/sorts.cpp.o"
+},
+{
+  "directory": "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/build",
+  "command": "/usr/bin/clang++  -I/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src -g -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles/TD3-exo3.dir/src/TD3-exo3.cpp.o -c /Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/TD3-exo3.cpp",
+  "file": "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/TD3-exo3.cpp",
+  "output": "CMakeFiles/TD3-exo3.dir/src/TD3-exo3.cpp.o"
+},
+{
+  "directory": "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/build",
+  "command": "/usr/bin/clang++  -I/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src -g -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles/TD3-exo3.dir/src/sorts.cpp.o -c /Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/sorts.cpp",
+  "file": "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/sorts.cpp",
+  "output": "CMakeFiles/TD3-exo3.dir/src/sorts.cpp.o"
+},
+{
+  "directory": "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/build",
+  "command": "/usr/bin/clang++  -I/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src -g -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles/TD3-exo4.dir/src/TD3-exo4.cpp.o -c /Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/TD3-exo4.cpp",
+  "file": "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/TD3-exo4.cpp",
+  "output": "CMakeFiles/TD3-exo4.dir/src/TD3-exo4.cpp.o"
+},
+{
+  "directory": "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/build",
+  "command": "/usr/bin/clang++  -I/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src -g -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles/TD3-exo4.dir/src/sorts.cpp.o -c /Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/sorts.cpp",
+  "file": "/Users/lenafournier/Documents/GitHub/S2-Prog-Algo-TD/TD3/src/sorts.cpp",
+  "output": "CMakeFiles/TD3-exo4.dir/src/sorts.cpp.o"
+}
+]
