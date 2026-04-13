@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "IMAC",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TD5-exo1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TD5-exo1-Debug-87e3a903e4a78459018c.json",
+					"name" : "TD5-exo1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TD5-exo2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TD5-exo2-Debug-a610bbc57f701ad10faf.json",
+					"name" : "TD5-exo2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2-Prog-Algo-TD/TD5/build",
+		"source" : "/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2-Prog-Algo-TD/TD5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
