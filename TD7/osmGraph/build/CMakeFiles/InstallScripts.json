@@ -1,0 +1,16 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2-Prog-Algo-TD/TD7/osmGraph/build/cmake_install.cmake",
+		"/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2-Prog-Algo-TD/TD7/osmGraph/build/_deps/glm-build/cmake_install.cmake",
+		"/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2-Prog-Algo-TD/TD7/osmGraph/build/_deps/glm-build/glm/cmake_install.cmake",
+		"/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2-Prog-Algo-TD/TD7/osmGraph/build/_deps/pugixml-build/cmake_install.cmake",
+		"/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2-Prog-Algo-TD/TD7/osmGraph/build/_deps/argparse-build/cmake_install.cmake",
+		"/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2-Prog-Algo-TD/TD7/osmGraph/build/_deps/cereal-build/cmake_install.cmake",
+		"/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2-Prog-Algo-TD/TD7/osmGraph/build/_deps/raylib-build/cmake_install.cmake",
+		"/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2-Prog-Algo-TD/TD7/osmGraph/build/_deps/raylib-build/raylib/cmake_install.cmake",
+		"/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2-Prog-Algo-TD/TD7/osmGraph/build/_deps/raylib-build/raylib/external/glfw/cmake_install.cmake",
+		"/Users/lenafournier/Desktop/IMAC/IMAC1/ProgAlgo/S2-Prog-Algo-TD/TD7/osmGraph/build/_deps/raylib-build/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
